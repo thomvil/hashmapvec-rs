@@ -1,0 +1,14 @@
+[package]
+name = "hashmap_vec"
+version = "0.1.0"
+edition = "2018"
+
+authors = ["Thomas Villa <thomvil87@gmail.com>"]
+description = "A HashMap with lists a values"
+documentation = "https://docs.rs/hashmap_vec/"
+homepage = "https://github.com/hashmap_vec"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/hashmap_vec"
+
+[dependencies]
