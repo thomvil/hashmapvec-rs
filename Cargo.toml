@@ -6,9 +6,9 @@ edition = "2018"
 authors = ["Thomas Villa <thomvil87@gmail.com>"]
 description = "A HashMap with lists a values"
 documentation = "https://docs.rs/hashmap_vec/"
-homepage = "https://github.com/hashmap_vec"
+homepage = "https://github.com/thomvil/hashmapvec-rs"
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/hashmap_vec"
+repository = "https://github.com/thomvil/hashmapvec-rs"
 
 [dependencies]
